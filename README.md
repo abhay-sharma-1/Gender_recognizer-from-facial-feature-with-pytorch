@@ -1,7 +1,7 @@
 # Gender_recognizer-from-facial-feature-with-pytorch
 ## overview
 This repository contains a gender classification model developed using PyTorch with the ResNet18 architecture. The model classifies facial images into two categories: male and female. Leveraging the powerful feature extraction capabilities of the pretrained ResNet18 model, this implementation provides an effective solution for gender classification tasks.
-##Table of content 
+## Table of content 
 1. Read me
 2. [Dataset](https://www.kaggle.com/datasets/ashwingupta3012/male-and-female-faces-dataset)
 3. [Notebook](https://github.com/abhay-sharma-1/Gender_recognizer-from-facial-feature-with-pytorch/blob/main/gennder-recognizer.ipynb)
